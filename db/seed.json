@@ -1,0 +1,196 @@
+{
+    "characters": [
+      {
+        "name": "Tanjiro Kamado",
+        "ranks": "Demon Slayer Corps - Mizunoto",
+        "breathing_forms": [
+          "Water Breathing -  Form: Water Surface Slice",
+          "Water Breathing - Second Form: Water Wheel",
+          "Water Breathing - Third Form: Flowing Dance",
+          "Water Breathing - Fourth Form: Striking Tide",
+          "Water Breathing - Fifth Form: Blessed Rain after the Drought",
+          "Water Breathing - Sixth Form: Whirlpool",
+          "Water Breathing - Seventh Form: Drop Ripple Thrust",
+          "Water Breathing - Eighth Form: Waterfall Basin",
+          "Water Breathing - Ninth Form: Splashing Water Flow",
+          "Water Breathing - Tenth Form: Gentle Water Bird",
+          "Sun Breathing -  Form: Dance",
+          "Sun Breathing - Second Form: Clear Blue Sky",
+          "Sun Breathing - Third Form: Raging Sun",
+          "Sun Breathing -  Fourth Form: Burning Bones, SummerSun",
+          "Sun Breathing - Fifth Form: Setting Sun Transformation",
+          "Sun Breathing - Sixth Form: Solar Heat Haze",
+          "Sun Breathing - Seventh Form: Beneficent Radiance",
+          "Sun Breathing - Eighth Form: Sunflower Thrust",
+          "Sun Breathing - Ninth Form: Dragon Sun Halo Head Dance",
+          "Sun Breathing - Tenth Form: Fire Wheel",
+          "Sun Breathing - Eleventh Form: Fake Rainbow",
+          "Sun Breathing - Twelfth Form: Flame Dance"
+        ]
+      },
+      {
+        "name": "Nezuko Kamado",
+        "ranks": "Demon Slayer Corps - Mizunoto",
+        "blood_demon_arts": []
+      },
+      {
+        "name": "Zenitsu Agatsuma",
+        "ranks": "Demon Slayer Corps - Mizunoto",
+        "breathing_forms": [
+          "Thunder Breathing - First Form: Thunderclap and Flash",
+          "Thunder Breathing - Seventh Form: Flaming Thunder God"
+        ]
+      },
+      {
+        "name": "Inosuke Hashibira",
+        "ranks": "Demon Slayer Corps - Mizunoto",
+        "breathing_forms": [
+          "Beast Breathing - First Form: Beast Thunder Fang",
+          "Beast Breathing - Second Form: Beast's Fury",
+          "Beast Breathing - Third Form: The Beast of Destruction",
+          "Beast Breathing -  Fourth Form: Slice 'n' Dice",
+          "Beast Breathing -  Fifth Form: Crazy Cutting ",
+          "Beast Breathing -  Sixth Form: Palisade Bite",
+          "Beast Breathing -  Seventh Form: Spatial Awareness",
+          "Beast Breathing -  Eighth Form:  Explosive Rush",
+          "Beast Breathing -  Ninth Form: Extending Bendy Slash",
+          "Beast Breathing -  Tenth Form: Whirling Fangs"
+        ]
+      },
+      {
+        "name": "Kyojuro Rengoku",
+        "ranks": "Demon Slayer Corps - Flame Hashira",
+        "breathing_forms": [
+          "Flame Breathing -  Form: Unknowing Fire",
+          "Flame Breathing - Second Form: Rising Scorching Sun",
+          "Flame Breathing - Third Form: Blazing Universe",
+          "Flame Breathing - Fourth Form: Blooming Flame Undulation",
+          "Flame Breathing - Fifth Form: Flame Tiger",
+          "Flame Breathing - Ninth Form: Rengoku"
+        ]
+      },
+      {
+        "name": "Shinobu Kocho",
+        "ranks": "Demon Slayer Corps - Insect Hashira",
+        "breathing_forms": [
+          "Insect Breathing -  First Form: Unknowing Fire",
+          "Insect Breathing - Second Form: Flower of Flames",
+          "Insect Breathing - Butterfly Dance: Caprice",
+          "Insect Breathing - Dance of the Bee Sting: True Flutter",
+          "Insect Breathing - Dance of the Dragonfly: Compound Eye Hexagon",
+          "Insect Breathing - Dance of the Centipede: Hundred-Legged Zigzag",
+          "Insect Breathing - Butterfly Dance: Caprice, Illusory Light"
+
+        ]
+      },
+      {
+        "name": "Giyu Tomioka",
+        "ranks": "Demon Slayer Corps - Water Hashira",
+        "breathing_forms": [
+            "Water Breathing -  Form: Water Surface Slice",
+            "Water Breathing - Second Form: Water Wheel",
+            "Water Breathing - Third Form: Flowing Dance",
+            "Water Breathing - Fourth Form: Striking Tide",
+            "Water Breathing - Fifth Form: Blessed Rain after the Drought",
+            "Water Breathing - Sixth Form: Whirlpool",
+            "Water Breathing - Seventh Form: Drop Ripple Thrust",
+            "Water Breathing - Eighth Form: Waterfall Basin",
+            "Water Breathing - Ninth Form: Splashing Water Flow",
+            "Water Breathing - Tenth Form: Gentle Water Bird",
+            "Water Breathing - Eleventh Form: Dead Calm"
+        ]
+      },
+      {
+        "name": "Sanemi Shinazugawa",
+        "ranks": "Demon Slayer Corps - Wind Hashira",
+        "breathing_forms": [
+          "Wind Breathing -  First Form: Dust Whirlwind Cutter",
+          "Wind Breathing - Second Form: Claws, Purifying Wind",
+          "Wind Breathing - Third Form: Clear Storm Wind Tree",
+          "Wind Breathing - Fourth Form: Rising Dust Storm",
+          "Wind Breathing - Fifth Form: Cold Mountain Wind ",
+          "Wind Breathing - Sixth Form: Black Wind Mountain Mist",
+          "Wind Breathing - Seventh Form: Gale, Sudden Gusts ",
+          "Wind Breathing - Eighth Form: Primary Gale Slash",
+          "Wind Breathing - Ninth Form: Idaten Typhoon "
+        ]
+      },
+      {
+        "name": "Tengen Uzui",
+        "ranks": "Demon Slayer Corps - Sound Hashira",
+        "breathing_forms": [
+          "Sound Breathing -  First Form: Roar",
+          "Sound Breathing - Fourth Form: Constant Resounding Slashes",
+          "Sound Breathing - Fifth Form: String Performance",
+          "Sound Breathing - Fifth Form: String Performance, Bursting Bloom"
+        ]
+      },
+      {
+        "name": "Muichiro Tokito",
+        "ranks": "Demon Slayer Corps - Mist Hashira",
+        "breathing_forms": [
+          "Mist Breathing -  Form: Thunderclap and Flash",
+          "Mist Breathing - Second Form: Rising Scorching Sun",
+          "Mist Breathing - Third Form: Soaring Thunderclap"
+        ]
+      },
+      {
+        "name": "Gyomei Himejima",
+        "ranks": "Demon Slayer Corps - Stone Hashira",
+        "breathing_forms": [
+          "Stone Breathing -  Form: Thunderclap and Flash",
+          "Stone Breathing - Second Form: Rising Scorching Sun",
+          "Stone Breathing - Third Form: Soaring Thunderclap"
+        ]
+      },
+      {
+        "name": "Kanao Tsuyuri",
+        "ranks": "Demon Slayer Corps - Flower Hashira",
+        "breathing_forms": [
+          "Flower Breathing -  Form: Unknowing Fire",
+          "Flower Breathing - Second Form: Flower of Flames"
+        ]
+      },
+      {
+        "name": "Mitsuri Kanroji",
+        "ranks": "Demon Slayer Corps - Love Hashira",
+        "breathing_forms": [
+            "Love Breathing -  Form: Shivers of Love",
+            "Love Breathing - Second Form: Love Pangs",
+            "Love Breathing - Third Form: Catlove Shower",
+            "Love Breathing - Fifth Form: Swaying Love, Wildclaw",
+            "Love Breathing - Sixth Form: Cat-Legged Winds of Love"
+        ]
+      },
+      {
+        "name": "Obanai Iguro",
+        "ranks": "Demon Slayer Corps - Serpent Hashira",
+        "breathing_forms": [
+            "Serpent Breathing -  Form: Winding Serpent Slash",
+            "Serpent Breathing - Second Form: Venom Fangs of the Narrow Head",
+            "Serpent Breathing - Third Form: Coil Choke",
+            "Serpent Breathing - Fourth Form: Twin-Headed Reptile",
+            "Serpent Breathing - Fifth Form: Slithering Serpent" 
+        ]
+      },
+      {
+        "name": "Yoriichi Tsugikuni",
+        "ranks": "Creator of the Breathing Forms",
+        "breathing_forms": [
+            "Sun Breathing -  Form: Dance",
+            "Sun Breathing - Second Form: Clear Blue Sky",
+            "Sun Breathing - Third Form: Raging Sun",
+            "Sun Breathing -  Fourth Form: Burning Bones, SummerSun",
+            "Sun Breathing - Fifth Form: Setting Sun Transformation",
+            "Sun Breathing - Sixth Form: Solar Heat Haze",
+            "Sun Breathing - Seventh Form: Beneficent Radiance",
+            "Sun Breathing - Eighth Form: Sunflower Thrust",
+            "Sun Breathing - Ninth Form: Dragon Sun Halo Head Dance",
+            "Sun Breathing - Tenth Form: Fire Wheel",
+            "Sun Breathing - Eleventh Form: Fake Rainbow",
+            "Sun Breathing - Twelfth Form: Flame Dance"
+        ]
+      }
+    ]
+  }
+  

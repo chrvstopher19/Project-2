@@ -1,12 +1,12 @@
 import { Router } from "express";
-import housesRoutes from "./houses.js";
-import charactersRoutes from "./characters.js";
+import demonsRoutes from "./demons.js";
+import slayersRoutes from "./slayers.js";
 
 const router = Router ();
 
 router.get("/", (req, res) => res.send("This is the api root"));
 
-router.use("/houses", housesRoutes);
-router.use("/characters", charactersRoutes);
+router.use("/houses", demonsRoutes);
+router.use("/slayers", slayersRoutes);
 
 export default router;
