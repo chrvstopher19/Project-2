@@ -1,9 +1,8 @@
 import db from "../db/connection.js";
-import House from "../models/Demon.js";
-import Slayer from "../models Slayer.js";
-import houses from "./demons.json" assert { type: "json" };
-import Slayers from "./slayers.json" assert { type: "json" };
-import chalk from "chalk";
+import Demon from "../models/Demon.js";
+import Slayer from "../models/Slayer.js";
+import demons from "../db/demons.json" assert { type: "json" };
+import slayers from "../db/slayers.json" assert { type: "json" };
 
 
 const insertData = async () => {
@@ -14,7 +13,7 @@ const insertData = async () => {
   await Slayer.create (slayers);
   await Demon.create(demons);
 
-  console.log(chalk.magenta(" Slayers created!"));
+  console.log(" Slayers created!");
 
   // Close DB Connection
   await db.close();

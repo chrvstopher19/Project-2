@@ -3,10 +3,10 @@ import * as controllers from "../controllers/slayers.js";
 
 const router = Router();
 
-router.get("/", controllers.getSlayer);
-router.get("/:id", controllers.getSlayer);
-router.post("/", controllers.createSlayer);
-router.put("/:id", controllers.updateSlayer);
-router.delete("/:id", controllers.deleteSlayer);
+router.get("/", controllers.getSlayers);
+router.get("/slayer/:id", controllers.getSlayer);
+router.post("/slayer", controllers.createslayer);
+router.put("/slayer/:id", controllers.updateslayer);
+router.delete("/slayer/:id", controllers.deleteslayer);
 
 export default router;

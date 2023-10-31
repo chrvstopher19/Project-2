@@ -1,5 +1,4 @@
-{
-    "characters": [
+ [    
       {
         "name": "Tanjiro Kamado",
         "ranks": "Demon Slayer Corps - Mizunoto",
@@ -31,7 +30,7 @@
       {
         "name": "Nezuko Kamado",
         "ranks": "Demon Slayer Corps - Mizunoto",
-        "blood_demon_arts": []
+        "blood_demon_arts": "Combustible Blood"
       },
       {
         "name": "Zenitsu Agatsuma",
@@ -73,8 +72,6 @@
         "name": "Shinobu Kocho",
         "ranks": "Demon Slayer Corps - Insect Hashira",
         "breathing_forms": [
-          "Insect Breathing -  First Form: Unknowing Fire",
-          "Insect Breathing - Second Form: Flower of Flames",
           "Insect Breathing - Butterfly Dance: Caprice",
           "Insect Breathing - Dance of the Bee Sting: True Flutter",
           "Insect Breathing - Dance of the Dragonfly: Compound Eye Hexagon",
@@ -129,26 +126,35 @@
         "name": "Muichiro Tokito",
         "ranks": "Demon Slayer Corps - Mist Hashira",
         "breathing_forms": [
-          "Mist Breathing -  Form: Thunderclap and Flash",
-          "Mist Breathing - Second Form: Rising Scorching Sun",
-          "Mist Breathing - Third Form: Soaring Thunderclap"
+          "Mist Breathing -  First Form: Low Clouds, Distant Haze",
+          "Mist Breathing - Second Form: Eight-Layered Mist",
+          "Mist Breathing - Third Form: Scattering Mist Splash",
+          "Mist Breathing - Fourth Form: Shifting Flow Slash",
+          "Mist Breathing - Fifth Form: Sea of Clouds and Haze",
+          "Mist Breathing - Sixth Form: Lunar Dispersing Mist",
+          "Mist Breathing - Seventh Form: Obscuring Clouds"
         ]
       },
       {
         "name": "Gyomei Himejima",
         "ranks": "Demon Slayer Corps - Stone Hashira",
         "breathing_forms": [
-          "Stone Breathing -  Form: Thunderclap and Flash",
-          "Stone Breathing - Second Form: Rising Scorching Sun",
-          "Stone Breathing - Third Form: Soaring Thunderclap"
+          "Stone Breathing - First Form: Serpentinite Bipolar",
+          "Stone Breathing - Second Form: Upper Smash",
+          "Stone Breathing - Third Form: Stone Skin",
+          "Stone Breathing - Fourth Form: Volcanic Rock, Rapid Conquest",
+          "Stone Breathing - Fifth Form: Arcs of Justice"
         ]
       },
       {
         "name": "Kanao Tsuyuri",
         "ranks": "Demon Slayer Corps - Flower Hashira",
         "breathing_forms": [
-          "Flower Breathing -  Form: Unknowing Fire",
-          "Flower Breathing - Second Form: Flower of Flames"
+          "Flower Breathing - Second Form: Honorable Shadow Plum ",
+          "Flower Breathing - Fourth Form: Crimson Hanagoromo",
+          "Flower Breathing - Fifth Form: Peonies of Futility",
+          "Flower Breathing - Sixth Form: Whirling Peach",
+          "Flower Breathing - Final Form: Equinoctial Vermilion Eye"
         ]
       },
       {
@@ -190,7 +196,13 @@
             "Sun Breathing - Eleventh Form: Fake Rainbow",
             "Sun Breathing - Twelfth Form: Flame Dance"
         ]
+      },
+      {
+        "name": "Genya Shinazugawa",
+        "ranks": "Demon Slayer Corps - Mizunoto",
+        "breathing_forms": "none",
+        "blood_demon_arts": "Vampiric Trees"
       }
     ]
-  }
+
   

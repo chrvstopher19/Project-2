@@ -1,8 +1,8 @@
-import slayer from "../models/Slayer.js";
+import Slayer from "../models/Slayer.js";
 
 export const getSlayers = async (req, res) => {
   try {
-    const slayers = await slayer.find();
+    const slayers = await Slayer.find();
     res.json(slayers);
   } catch (error) {
     console.error(error);
@@ -13,13 +13,13 @@ export const getSlayers = async (req, res) => {
 export const getSlayer = async (req, res) => {
   try {
     const { id } = req.params;
-    const slayer = await slayer.findById(id);
+    const slayer = await Slayer.findById(id);
 
     if (slayer) {
       return res.json(slayer);
     }
 
-    res.stats(404).json({ message: "slayer not found!" });
+    res.status(404).json({ message: "slayer not found!" });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: error.message });
@@ -28,7 +28,7 @@ export const getSlayer = async (req, res) => {
 
 export const createslayer = async (req, res) => {
   try {
-    const slayer = new slayer(req.body);
+    const slayer = new Slayer(req.body);
     await slayer.save();
     res.status(201).json(slayer);
   } catch (error) {
@@ -40,7 +40,7 @@ export const createslayer = async (req, res) => {
 export const updateslayer = async (req, res) => {
   try {
     const { id } = req.params;
-    const slayer = await slayer.findByIdAndUpdate(id, req.body);
+    const slayer = await Slayer.findByIdAndUpdate(id, req.body);
 
     res.status(201).json(slayer);
   } catch (error) {
@@ -52,7 +52,7 @@ export const updateslayer = async (req, res) => {
 export const deleteslayer = async (req, res) => {
   try {
     const { id } = req.params;
-    const deleted = await slayer.findByIdAndDelete(id);
+    const deleted = await Slayer.findByIdAndDelete(id);
 
     if (deleted) {
       return res.status(200).send("slayer deleted!");

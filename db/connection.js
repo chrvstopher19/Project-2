@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import chalk from "chalk";
 
 mongoose.set("returnOriginal", false);
 
@@ -8,11 +7,11 @@ mongoose.connect("mongodb://127.0.0.1:27017/demon-slayer-api").catch((err) => {
 });
 
 mongoose.connection.on("disconnected", () => {
-  console.log(chalk.bold("Disconnected from MongoDB!!"));
+  console.log("Disconnected from MongoDB!!");
 });
 
 mongoose.connection.on("error", (err) => {
-  console.log(chalk.red(`MongoDB connection error: ${err}`));
+  console.log(`MongoDB connection error: ${err}`);
 });
 
 export default mongoose.connection;

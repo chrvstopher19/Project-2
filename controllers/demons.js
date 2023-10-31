@@ -1,4 +1,4 @@
-import Demon from "../models Demon.js";
+import Demon from "../models/Demon.js";
 
 export const getdemons = async (req, res) => {
   try {

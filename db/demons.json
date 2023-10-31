@@ -1,0 +1,68 @@
+ [
+      {
+        "name": "Kokushibo",
+        "rank": "One",
+        "blood_demon_arts": "Crescent Moon Blades",
+        "breathing_forms": [
+            "Moon Breathing - First Form: Dark Moon, Evening Palace",
+            "Moon Breathing - Second Form: Pearl Flower Moongazing ",
+            "Moon Breathing - Third Form: Loathsome Moon, Chains ",
+            "Moon Breathing - Fifth Form: Moon Spirit Calamitous Eddy",
+            "Moon Breathing - Sixth Form: Perpetual Night, Lonely Moon - Incessant",
+            "Moon Breathing - Seventh Form: Mirror of Misfortune, Moonlit",
+            "Moon Breathing - Eighth Form: Moon-Dragon Ringtail",
+            "Moon Breathing - Ninth Form: Waning Moonswaths",
+            "Moon Breathing - Tenth Form: Drilling Slashes, Moon Through Bamboo Leaves",
+            "Moon Breathing - Fourteenth Form: Catastrophe, Tenman Crescent Moon",
+            "Moon Breathing - Sixteenth Form: Moonbow, Half Moon"
+        ]
+      },
+      {
+        "name": "Doma",
+        "rank": "Two",
+        "blood_demon_arts": "Cryokinesis"
+      },
+      {
+        "name": "Akaza",
+        "rank": "Three",
+        "blood_demon_arts": "Destructive Death"
+      },
+      {
+        "name": "Hantengu",
+        "rank": "Four",
+        "blood_demon_arts": "Emotion Manifestation"
+      },
+      {
+        "name": "Gyokko",
+        "rank": "Five",
+        "blood_demon_arts": "Flesh Manipulation"
+      },
+      {
+        "name": "Gyutaro",
+        "rank": "Six",
+        "blood_demon_arts": "Blood Manipulation"
+      },
+      {
+        "name": "Daki",
+        "rank": "Six",
+        "blood_demon_arts": "Obi Sash Manipulation"
+      },
+      {
+        "name": "Kaigaku",
+        "rank": "New Upper Moon Six",
+        "blood_demon_arts": "Electrokinesis",
+        "breathing_forms" : [
+            "Thunder Breathing - Second Form: Rice Spirit",
+            "Thunder Breathing - Third Form: Thunder Swarm",
+            "Thunder Breathing - Fourth Form: Distant Thunder",
+            "Thunder Breathing - Fifth Form: Heat Lightning",
+            "Thunder Breathing - Sixth Form: Rumble and Flash"
+        ]
+      },
+      {
+        "name": "Muzan Kibutsuji",
+        "rank": "Leader of the Demons",
+        "blood_demon_arts": "Biokinesis"
+      }
+    ]
+  
