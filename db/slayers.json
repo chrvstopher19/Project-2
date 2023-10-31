@@ -3,7 +3,7 @@
         "name": "Tanjiro Kamado",
         "ranks": "Demon Slayer Corps - Mizunoto",
         "breathing_forms": [
-          "Water Breathing -  Form: Water Surface Slice",
+          "Water Breathing -  First Form: Water Surface Slice",
           "Water Breathing - Second Form: Water Wheel",
           "Water Breathing - Third Form: Flowing Dance",
           "Water Breathing - Fourth Form: Striking Tide",
@@ -13,7 +13,7 @@
           "Water Breathing - Eighth Form: Waterfall Basin",
           "Water Breathing - Ninth Form: Splashing Water Flow",
           "Water Breathing - Tenth Form: Gentle Water Bird",
-          "Sun Breathing -  Form: Dance",
+          "Sun Breathing -  First Form: Dance",
           "Sun Breathing - Second Form: Clear Blue Sky",
           "Sun Breathing - Third Form: Raging Sun",
           "Sun Breathing -  Fourth Form: Burning Bones, SummerSun",
@@ -60,7 +60,7 @@
         "name": "Kyojuro Rengoku",
         "ranks": "Demon Slayer Corps - Flame Hashira",
         "breathing_forms": [
-          "Flame Breathing -  Form: Unknowing Fire",
+          "Flame Breathing -  First Form: Unknowing Fire",
           "Flame Breathing - Second Form: Rising Scorching Sun",
           "Flame Breathing - Third Form: Blazing Universe",
           "Flame Breathing - Fourth Form: Blooming Flame Undulation",
@@ -84,7 +84,7 @@
         "name": "Giyu Tomioka",
         "ranks": "Demon Slayer Corps - Water Hashira",
         "breathing_forms": [
-            "Water Breathing -  Form: Water Surface Slice",
+            "Water Breathing -  First Form: Water Surface Slice",
             "Water Breathing - Second Form: Water Wheel",
             "Water Breathing - Third Form: Flowing Dance",
             "Water Breathing - Fourth Form: Striking Tide",
@@ -161,7 +161,7 @@
         "name": "Mitsuri Kanroji",
         "ranks": "Demon Slayer Corps - Love Hashira",
         "breathing_forms": [
-            "Love Breathing -  Form: Shivers of Love",
+            "Love Breathing -  First Form: Shivers of Love",
             "Love Breathing - Second Form: Love Pangs",
             "Love Breathing - Third Form: Catlove Shower",
             "Love Breathing - Fifth Form: Swaying Love, Wildclaw",
@@ -172,7 +172,7 @@
         "name": "Obanai Iguro",
         "ranks": "Demon Slayer Corps - Serpent Hashira",
         "breathing_forms": [
-            "Serpent Breathing -  Form: Winding Serpent Slash",
+            "Serpent Breathing -  First Form: Winding Serpent Slash",
             "Serpent Breathing - Second Form: Venom Fangs of the Narrow Head",
             "Serpent Breathing - Third Form: Coil Choke",
             "Serpent Breathing - Fourth Form: Twin-Headed Reptile",
@@ -183,7 +183,7 @@
         "name": "Yoriichi Tsugikuni",
         "ranks": "Creator of the Breathing Forms",
         "breathing_forms": [
-            "Sun Breathing -  Form: Dance",
+            "Sun Breathing -  First Form: Dance",
             "Sun Breathing - Second Form: Clear Blue Sky",
             "Sun Breathing - Third Form: Raging Sun",
             "Sun Breathing -  Fourth Form: Burning Bones, SummerSun",
