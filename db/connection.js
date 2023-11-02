@@ -1,8 +1,10 @@
 import mongoose from "mongoose";
-
 mongoose.set("returnOriginal", false);
 
-mongoose.connect("mongodb://127.0.0.1:27017/demon-slayer-api").catch((err) => {
+let MONGODB_URI = proccess.env.PROD_MONGODB || "mongodb://127.0.0.1:27017/demon-slayer-api"
+
+mongoose.set("returnOriginal", false)
+mongoose.connect(MONGODB_URI).catch((err) => {
   console.log(`Error connection go MongoDB: ${err.message}`);
 });
 
