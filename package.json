@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "seed": "./seed/data.js"
+    "seed": "node ./seed/data.js"
   },
   "author": "",
   "license": "ISC",
