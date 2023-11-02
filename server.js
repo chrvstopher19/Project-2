@@ -6,7 +6,7 @@ import logger from "morgan";
 
 
 const app = express()
-const PORT = proccess.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
